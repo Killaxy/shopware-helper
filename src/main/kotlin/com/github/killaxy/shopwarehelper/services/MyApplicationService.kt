@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.killaxy.shopwarehelper.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.killaxy.shopwarehelper.MyBundle
 
 class MyApplicationService {
 
